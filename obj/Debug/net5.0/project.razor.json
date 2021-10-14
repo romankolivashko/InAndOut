@@ -15654,6 +15654,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\john smith\\Desktop\\epicodus\\C#\\InAndOut\\Views\\Expense\\Update.cshtml",
+      "TargetPath": "Views\\Expense\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\john smith\\Desktop\\epicodus\\C#\\InAndOut\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15671,6 +15676,11 @@
     {
       "FilePath": "c:\\Users\\john smith\\Desktop\\epicodus\\C#\\InAndOut\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\john smith\\Desktop\\epicodus\\C#\\InAndOut\\Views\\Expense\\Delete.cshtml",
+      "TargetPath": "Views\\Expense\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
